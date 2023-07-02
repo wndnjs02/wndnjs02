@@ -2,7 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndnjs02)](https://solved.ac/wndnjs02/)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:84F3FF,100:F5FDFF&section=footer&height=107&fontAlign=50&fontAlignY=20&text=END&fontSize=47&fontColor=84F3FF&animation=fadeIn&desc=ORCA&descSize=20&descAlign=95&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:84F3FF,100:F5FDFF&section=footer&height=107&fontAlign=50&fontAlignY=20&text=enjoy!&fontSize=47&fontColor=84F3FF&animation=fadeIn&desc=ORCA&descSize=20&descAlign=95&descAlignY=80)
 
 <!--
 **wndnjs02/wndnjs02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
